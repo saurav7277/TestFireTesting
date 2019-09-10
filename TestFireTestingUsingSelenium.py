@@ -4,7 +4,6 @@ from selenium import webdriver
 from configparser import ConfigParser
 
 
-
 class TestFireTesting(unittest.TestCase):
     parser = ConfigParser()
     parser.read('configuration.ini')
