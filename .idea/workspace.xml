@@ -12,15 +12,15 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="HTML File" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1QUlXIJiO3rVKsb8fBVF9Vg09gO" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -34,29 +34,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Unittests in TestFireTestingUsingSelenium.py">
+  <component name="RunManager" selected="Python.TestFireTestingUsingSelenium">
     <configuration name="TestFireTestingUsingSelenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="TestFireTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestFireTestingUsingSelenium.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Training\PycharmProjects\TestFireTesting\TestFire.py" />
       <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
       <option name="REDIRECT_INPUT" value="false" />
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests for TestFireTestingUsingSelenium.TestFireTesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests for TestFire.TestFireTesting" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="TestFireTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -66,11 +63,11 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;TestFireTestingUsingSelenium.TestFireTesting&quot;" />
+      <option name="_new_target" value="&quot;TestFire.TestFireTesting&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Unittests in TestFireTestingUsingSelenium.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+    <configuration name="Unittests in TestFire.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="TestFireTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -80,14 +77,15 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestFireTestingUsingSelenium.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestFire.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Unittests in TestFireTestingUsingSelenium.py" />
-        <item itemvalue="Python tests.Unittests for TestFireTestingUsingSelenium.TestFireTesting" />
+        <item itemvalue="Python.TestFireTestingUsingSelenium" />
+        <item itemvalue="Python tests.Unittests in TestFire.py" />
+        <item itemvalue="Python tests.Unittests for TestFire.TestFireTesting" />
         <item itemvalue="Python.TestFireTestingUsingSelenium" />
       </list>
     </recent_temporary>
