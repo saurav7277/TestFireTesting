@@ -1,0 +1,79 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1568607888758" stop="1568607897879">
+  <name>TestFire</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1568607888758" status="passed" stop="1568607897878">
+      <name>TestFire.TestFireTesting.test_available_balance_and_Rent_balance</name>
+      <attachments/>
+      <labels/>
+      <steps>
+        <step start="1568607891332" status="passed" stop="1568607893055">
+          <name>Launching http://demo.testfire.net/ </name>
+          <title>Launching http://demo.testfire.net/ </title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607893055" status="passed" stop="1568607893523">
+          <name>Clicking on sign_in link</name>
+          <title>Clicking on sign_in link</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607893523" status="passed" stop="1568607893665">
+          <name>Entering username</name>
+          <title>Entering username</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607893665" status="passed" stop="1568607893793">
+          <name>Entering password</name>
+          <title>Entering password</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607893793" status="passed" stop="1568607894556">
+          <name>Clicking on login button</name>
+          <title>Clicking on login button</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607894556" status="passed" stop="1568607894708">
+          <name>Clicking on account details list box</name>
+          <title>Clicking on account details list box</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607894708" status="passed" stop="1568607894793">
+          <name>Selecting one account type</name>
+          <title>Selecting one account type</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607894793" status="passed" stop="1568607895587">
+          <name>Clicking on GO button</name>
+          <title>Clicking on GO button</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607895587" status="passed" stop="1568607895659">
+          <name>Getting available balance value</name>
+          <title>Getting available balance value</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607895659" status="passed" stop="1568607895659">
+          <name>Verifying available balance value</name>
+          <title>Verifying available balance value</title>
+          <attachments/>
+          <steps/>
+        </step>
+        <step start="1568607895659" status="passed" stop="1568607895711">
+          <name>Verifying Rent balance</name>
+          <title>Verifying Rent balance</title>
+          <attachments/>
+          <steps/>
+        </step>
+      </steps>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>
